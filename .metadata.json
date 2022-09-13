@@ -2,5 +2,9 @@
   {
     "package": "omicwas",
     "oncran": true
+  },
+  {
+    "package": "scPloidy",
+    "oncran": true
   }
 ]

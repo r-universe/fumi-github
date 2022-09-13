@@ -8,3 +8,8 @@
 	url = https://github.com/fumi-github/omicwas
 	shallow = true
 	registered = true
+[submodule "scPloidy"]
+	path = scPloidy
+	url = https://github.com/fumi-github/scploidy
+	shallow = true
+	registered = true
