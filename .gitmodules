@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "omicwas"]
 	path = omicwas
 	url = https://github.com/fumi-github/omicwas
-	shallow = true
-	registered = true
 [submodule "scPloidy"]
 	path = scPloidy
 	url = https://github.com/fumi-github/scploidy
-	shallow = true
-	registered = true
